@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.healofy.debug",
-    "sha256_cert_fingerprints":
-    ["69:B5:C0:5A:A7:40:79:72:B2:16:54:28:3F:B6:06:11:37:51:10:11:AA:45:7E:91:8C:A7:72:2E:8D:92:37:87"]
-  }
-}]
